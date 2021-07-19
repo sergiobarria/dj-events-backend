@@ -1,6 +1,8 @@
 # DJ Events (Strapi Backend)
 > Strapi backend for the DJ Events website.
 
+The Project Frontend can be found [here](https://github.com/sergiobarria/dj-events-frontent)
+
 # Usage
 
 ### Using Cloudinary
